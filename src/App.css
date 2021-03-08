@@ -1,0 +1,14 @@
+.App {
+  text-align: center;
+}
+
+.black{
+  font-size: 30px;
+  color:black;
+  cursor: pointer;
+}
+.gold{
+  font-size: 30px;
+  color:gold;
+  cursor: pointer;
+}
